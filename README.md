@@ -1,1 +1,1 @@
-Collection of tutorials to familiarze myself with geographical data analysis
+Jupyter notebook with tutorials for geographical data analysis
